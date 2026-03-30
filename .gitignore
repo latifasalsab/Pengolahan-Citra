@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Output images (optional, hapus baris ini kalau mau ikut di-push)
+*.bmp
+*.tiff
+*.jpg
+*.png
+
+# OS files
+.DS_Store
+Thumbs.db
