@@ -1,6 +1,6 @@
 # Pengolahan Citra Digital
-> Praktikum Pengolahan Citra — Program Studi STR Teknologi Rekayasa Komputer  
-> Politeknik Negeri Semarang | Semester Genap 2025
+> Praktikum Pengolahan Citra — Program Studi D3 Teknik Informatika
+> Politeknik Negeri Semarang | Semester Genap 2026
 
 ## 📋 Deskripsi
 Repository ini berisi kumpulan jobsheet praktikum mata kuliah Pengolahan Citra Digital
@@ -50,6 +50,6 @@ pengolahan-citra/
 | Minggu | Topik | Status |
 |--------|-------|--------|
 | Week 1 | Dasar Berkas Gambar (Citra) | ✅ Done |
-| Week 2 | - | 🔜 Coming Soon |
+| Week 2 | Operasi Deteksi Tepi (Sobel, Roberts, Prewitt, Kirsch, Canny) | ✅ Done |
 | Week 3 | - | 🔜 Coming Soon |
 | Week 4 | - | 🔜 Coming Soon |
