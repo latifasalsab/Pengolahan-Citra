@@ -15,7 +15,7 @@ Ir. Prayitno, S.ST., M.T., Ph.D.
 pengolahan-citra/
 │
 ├── Week-1/
-│   ├── jobsheet_01.ipynb     # P1-P8: Dasar Berkas Gambar (Citra)
+│   ├── jobsheet_01.ipynb
 │
 ├── Week-2/
 │   ├── jobsheet_02.ipynb
@@ -51,5 +51,6 @@ pengolahan-citra/
 |--------|-------|--------|
 | Week 1 | Dasar Berkas Gambar (Citra) | ✅ Done |
 | Week 2 | Operasi Deteksi Tepi (Sobel, Roberts, Prewitt, Kirsch, Canny) | ✅ Done |
-| Week 3 | - | 🔜 Coming Soon |
-| Week 4 | - | 🔜 Coming Soon |
+| Week 3 | Perbaikan Citra dalam Domain Spasial | ✅ Done |
+| Week 4 | Segmentasi Gambar | ✅ Done |
+| Week 5 | - | 🔜 Coming Soon |
