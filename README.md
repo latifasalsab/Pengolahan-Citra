@@ -53,4 +53,5 @@ pengolahan-citra/
 | Week 2 | Operasi Deteksi Tepi (Sobel, Roberts, Prewitt, Kirsch, Canny) | ✅ Done |
 | Week 3 | Perbaikan Citra dalam Domain Spasial | ✅ Done |
 | Week 4 | Segmentasi Gambar | ✅ Done |
-| Week 5 | - | 🔜 Coming Soon |
+| Week 5 | Mengukur Kemiripan Citra | ✅ Done |
+| Week 6 | - | 🔜 Coming Soon |
